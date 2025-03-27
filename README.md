@@ -1,5 +1,5 @@
 ## JUNGHYUN LEE
-안녕하세요! 🙋‍♂️ 개발자 이중현입니다.
+안녕하세요! 🙋‍♂️ 끈기가 있는 개발자 이중현입니다.
 <br />
 <br />
 <br />
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
 #### I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
