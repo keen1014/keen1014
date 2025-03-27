@@ -17,6 +17,7 @@
 <br />
 <br />
 <br />
+![keen1014's GitHub stats](https://github-readme-stats.vercel.app/api?username=keen1014&hide=stars,contribs&show_icons=true&theme=ambient_gradient)
 ## Skills
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
